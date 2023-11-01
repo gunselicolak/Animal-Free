@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "60213945109",
+    "project_id": "animal-free-acb02",
+    "storage_bucket": "animal-free-acb02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60213945109:android:a237b96faa8744d926ff1c",
+        "android_client_info": {
+          "package_name": "com.example.animalfree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60213945109-2sa03so9lis2o8iak40istiemm8l9p1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZtITxddssTQKhE5X02dDYbxJGr5yRQOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60213945109-2sa03so9lis2o8iak40istiemm8l9p1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
